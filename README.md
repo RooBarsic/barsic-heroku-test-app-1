@@ -1,5 +1,7 @@
 # barsic-heroku-test-app-1
 
+https://devcenter.heroku.com/articles/getting-started-with-java#provision-add-ons
+
 heroku ps:scale web=x - изменить количество агентов на x
 
 heroku ps:scale web=0
